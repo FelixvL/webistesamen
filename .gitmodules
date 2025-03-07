@@ -1,0 +1,6 @@
+[submodule "webistesamen/submodule"]
+	path = webistesamen/submodule
+	url = https://github.com/chaghuisT/gitsamen2025.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/chaghuisT/gitsamen2025.git
